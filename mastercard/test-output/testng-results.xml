@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100" started-at="2020-01-24T23:45:57Z" finished-at="2020-01-24T23:45:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100" started-at="2020-01-24T23:45:57Z" finished-at="2020-01-24T23:45:57Z">
+      <class name="qa.mastercard.TestSentances">
+        <test-method status="PASS" signature="lenthofsentance()[pri:0, instance:qa.mastercard.TestSentances@2c9f9fb0]" name="lenthofsentance" duration-ms="45" started-at="2020-01-24T18:45:57Z" finished-at="2020-01-24T18:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenthofsentance -->
+        <test-method status="PASS" signature="lenthofsentance2()[pri:0, instance:qa.mastercard.TestSentances@2c9f9fb0]" name="lenthofsentance2" duration-ms="8" started-at="2020-01-24T18:45:57Z" finished-at="2020-01-24T18:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenthofsentance2 -->
+        <test-method status="PASS" signature="lenthofsentance3()[pri:0, instance:qa.mastercard.TestSentances@2c9f9fb0]" name="lenthofsentance3" duration-ms="3" started-at="2020-01-24T18:45:57Z" finished-at="2020-01-24T18:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenthofsentance3 -->
+        <test-method status="PASS" signature="lenthofsentance4()[pri:0, instance:qa.mastercard.TestSentances@2c9f9fb0]" name="lenthofsentance4" duration-ms="4" started-at="2020-01-24T18:45:57Z" finished-at="2020-01-24T18:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenthofsentance4 -->
+        <test-method status="PASS" signature="lenthofsentance5()[pri:0, instance:qa.mastercard.TestSentances@2c9f9fb0]" name="lenthofsentance5" duration-ms="2" started-at="2020-01-24T18:45:57Z" finished-at="2020-01-24T18:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenthofsentance5 -->
+      </class> <!-- qa.mastercard.TestSentances -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
